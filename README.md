@@ -13,7 +13,7 @@ hyp_input_clusters_T.zip : local hypergraphs at different times of the NASDAQ da
 
 
 ## Code
-train_nasdaq.py: Train a model of TRC-HCN on the NASDAQ dataset. 
+train_nasdaq.py : Train a model of TRC-HCN on the NASDAQ dataset. 
 The training procedure and evaluation procedure are all included in the `train_nasdaq.py`.
 ```train & evaluate
 python train_nasdaq.py 
