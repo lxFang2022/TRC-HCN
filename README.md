@@ -6,7 +6,9 @@ All datasets can be downloaded from: https://github.com/fulifeng/Temporal_Relati
 We can get the raw data through the link. 
 
 hyp_input_global.npy : global hypergraph of NASDAQ dataset.
+
 hyp_input_clusters_T.zip : local hypergraph snapshots at different times of NASDAQ dataset.
+
 priorKnowledge.npy : prior knowledge of NASDAQ dataset.
 
 ## Code
