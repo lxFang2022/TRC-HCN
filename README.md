@@ -1,5 +1,5 @@
-# TRC-HCN
-TRC-HCN: A Hypergraph Convolution Network Driven by the Trend of Relationship Change for Stock Ranking Prediction
+# TD-HCN
+TD-HCN: A Trend-Driven Hypergraph Convolutional Network for Stock Recommendation
 
 ## Data 
 All datasets can be downloaded from: https://github.com/fulifeng/Temporal_Relational_Stock_Ranking/tree/master/data.
@@ -13,7 +13,7 @@ hyp_input_clusters_T.zip : local hypergraphs at different times of the NASDAQ da
 
 
 ## Code
-train_nasdaq.py : Train a model of TRC-HCN on the NASDAQ dataset. 
+train_nasdaq.py : Train a model of TD-HCN on the NASDAQ dataset. 
 The training procedure and evaluation procedure are all included in the `train_nasdaq.py`.
 ```train & evaluate
 python train_nasdaq.py 
